@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![CloverMidori's github stats](https://github-readme-stats.vercel.app/api?username=CloverMidori)
-<a class="twitter-follow-button" href="https://twitter.com/clover_0916" data-size="large">
+<a href="https://twitter.com/clover_0916?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">
   Follow @clover_0916
 </a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
