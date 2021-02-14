@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Clover_Midori's github stats](https://github-readme-stats.vercel.app/api?username=CloverMidori)
+![Top launguages](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact)
