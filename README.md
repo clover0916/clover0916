@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="left"> 
+  <a href="http://twitter.com/clover_0916">
+    <img height="20" src="https://img.shields.io/twitter/follow/clover_0916?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/CloverMidori">
+    <img height="20" src="https://img.shields.io/github/followers/CloverMidori?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 ![CloverMidori's github stats](https://github-readme-stats.vercel.app/api?username=CloverMidori)
 
-<a class="github-button" href="https://github.com/tbpgr" data-style="mega" data-count-href="/tbpgr/followers" data-count-api="/users/tbpgr#followers">Follow @tbpgr</a>
+
