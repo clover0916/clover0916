@@ -24,6 +24,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+# Statistics
 ![CloverMidori's github stats](https://github-readme-stats.vercel.app/api?username=CloverMidori)
-
-
