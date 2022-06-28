@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: Twitter([@Clover_0916](https://twitter.com/Clover_0916))
 - 😄 Pronouns: Clover, Midori, Clover Midori
-- ⚡ Fun fact: .3DCG, Video Editing, Game(APEX, Fortnite)
+- ⚡ Fun fact: 3DCG, Video Editing, Game(APEX, Fortnite)
 
 # Statistics
 ![CloverMidori's github stats](https://github-readme-stats.vercel.app/api?username=CloverMidori)
