@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/twitter/follow/clover_0916?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/CloverMidori">
-    <img height="20" src="https://img.shields.io/github/followers/CloverMidori?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/clover0916?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
