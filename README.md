@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 3DCG, Video Editing, Game(APEX, Fortnite)
 
 # Statistics
-![Clover_Midori's github stats](https://github-readme-stats.vercel.app/api?username=clover0916theme=dark)
+![Clover_Midori's github stats](https://github-readme-stats.vercel.app/api?username=clover0916&theme=dark)
