@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 
 # Statistics
 ![Clover_Midori's github stats](https://github-readme-stats.vercel.app/api?username=clover0916&theme=dark)
+![Clover Midoris's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clover0916&theme=dark)](https://github.com/clover0916/github-readme-stats)
