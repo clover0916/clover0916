@@ -14,11 +14,8 @@ Here are some ideas to get you started:
   - ⚡ Fun fact: ...
 -->
 
-
 <p align="left"> 
-  <a href="http://twitter.com/clover_0916">
-    <img height="20" src="https://img.shields.io/twitter/follow/clover_0916?label=Twitter&logo=twitter&style=flat" />
-  </a>
+  <img height="20" src="https://komarev.com/ghpvc/?username=clover0916" />
   <a href="https://github.com/CloverMidori">
     <img height="20" src="https://img.shields.io/github/followers/clover0916?label=follow&logo=github&style=flat" />
   </a>
